@@ -1,2 +1,0 @@
-# Tierlistbrowser
-Página web
